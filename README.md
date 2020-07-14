@@ -1,2 +1,2 @@
-# csc-1351
-This is a repository for all my CSC 1351 projects 
+# Java projects  
+This is a repository for all java projects 
